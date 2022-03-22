@@ -1,0 +1,21 @@
+{
+    "name": "lets-get-rusty-rust-pack",
+    "displayName": "Lets Get Rusty Rust Pack",
+    "description": "Extensions to get working with Rust",
+    "publisher": "ChaseKnowlden",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "extensionPack": [ 
+        "matklad.rust-analyzer",
+        "vadimcn.vscode-lldb",
+        "bungcip.better-toml",
+        "serayuzgur.crates",
+        "usernamehw.errorlens",
+        "tabnine.tabnine-vscode"
+    ]
+}

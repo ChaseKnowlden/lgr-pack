@@ -3,17 +3,17 @@
     "displayName": "Lets Get Rusty Rust Pack",
     "description": "Extensions to get working with Rust",
     "publisher": "ChaseKnowlden",
-    "version": "0.0.1",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.65.0"
     },
     "categories": [
         "Extension Packs"
     ],
-    "extensionPack": [ 
-        "matklad.rust-analyzer",
+    "extensionPack": [
+        "rust-lang.rust-analyzer",
         "vadimcn.vscode-lldb",
-        "bungcip.better-toml",
+        "tamasfe.even-better-toml",
         "serayuzgur.crates",
         "usernamehw.errorlens",
         "tabnine.tabnine-vscode"

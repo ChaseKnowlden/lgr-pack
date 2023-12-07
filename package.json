@@ -16,6 +16,6 @@
         "tamasfe.even-better-toml",
         "serayuzgur.crates",
         "usernamehw.errorlens",
-        "tabnine.tabnine-vscode"
+        "github.copilot"
     ]
 }
